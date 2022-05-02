@@ -1,2 +1,2 @@
-# Artificial-Neural-Network---ANN
-Artificial Neural Network - ANN
+# Convolutional-Neural-Network---ANN
+Convolutional Neural Network - ANN
