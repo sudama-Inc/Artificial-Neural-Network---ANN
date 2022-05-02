@@ -1,2 +1,2 @@
-# Convolutional-Neural-Network---ANN
-Convolutional Neural Network - ANN
+# Convolutional-Neural-Network---CNN
+Convolutional Neural Network - CNN
